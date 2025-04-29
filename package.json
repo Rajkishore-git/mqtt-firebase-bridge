@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-firebase-bridge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^13.3.0",
+    "mqtt": "^5.12.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
